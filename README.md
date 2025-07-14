@@ -39,9 +39,19 @@ Software Tools:
 - TinkerCAD (visualize 3D circuit design)
 - Arduino IDE (develop and upload code)
 
-🗂️ Project Files
-This repository includes:
-- Arduino_Sensor.ino — Source code for the sensor system and fingerprint processing.
-- Arduino_Aktuator.ino — Source code for the actuator and servo lock control.
-Circuit diagrams and TinkerCAD visualization (optional).
+✅ Conclusion & Suggestions
+Conclusion:
+The project successfully demonstrates an affordable, functional, and easy-to-build smart security box. It enhances safety by allowing only verified users to open it and provides clear feedback on the contents.
 
+Future Improvements:
+- Add a better user database system for larger scale.
+- Integrate remote monitoring via Wi-Fi or IoT platforms.
+- Improve fingerprint data security and storage.
+
+👥 Contributors
+- Martin Emmanuel Chang: Hardware and Programming
+- Grace Theofie: Powerpoint and Documents
+- Mastri Tasya Napitupulu: Powerpoint and Documents
+- Priscilla Green Samosir: Powerpoint and Documents
+
+Institution: Calvin Institute of Technology, 2023
