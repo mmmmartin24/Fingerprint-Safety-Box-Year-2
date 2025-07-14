@@ -41,8 +41,7 @@ Software Tools:
 
 🗂️ Project Files
 This repository includes:
-Arduino_Sensor.ino — Source code for the sensor system and fingerprint processing.
-Arduino_Aktuator.ino — Source code for the actuator and servo lock control.
+- Arduino_Sensor.ino — Source code for the sensor system and fingerprint processing.
+- Arduino_Aktuator.ino — Source code for the actuator and servo lock control.
 Circuit diagrams and TinkerCAD visualization (optional).
-Bill of Materials (see below).
 
